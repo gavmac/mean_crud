@@ -1,9 +1,9 @@
 {
-  "name": "meanjs",
-  "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js.",
+  "name": "mean-crud",
+  "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js",
   "version": "0.4.0",
   "private": false,
-  "author": "https://github.com/meanjs/mean/graphs/contributors",
+  "author": "Gavin Macken",
   "license": "MIT",
   "repository": {
     "type": "git",
