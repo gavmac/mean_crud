@@ -4,7 +4,7 @@ module.exports = {
   secure: true,
   port: process.env.PORT || 8443,
   db: {
-    uri: mongodb:gavmac:282820@ds141209.mlab.com:41209/job_dir,
+    uri: "mongodb://gavmac:282820@ds141209.mlab.com:41209/job_dir",
     options: {
       user: '',
       pass: ''
